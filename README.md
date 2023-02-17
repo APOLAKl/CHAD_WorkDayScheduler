@@ -1,4 +1,4 @@
-# <Work Day Scheduler>
+# < Work Day Scheduler >
 Don't forget to plan ahead, this handy dandy will get you there!
 
 ## Table of contents
